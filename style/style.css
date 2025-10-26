@@ -38,7 +38,7 @@
 
 .tasto-1{
     width: 100px;
-    padding: 10px;
+    padding: 3px;
     border-radius: 20%;
 }
 
@@ -54,6 +54,47 @@
     color: grey;
 }
 
-.vertical-space{
-    margin-top: 40px;
+.color-purple{
+    background-color:purple;
+    font-size: 10px;
+    color: white;
+}
+
+.color-green{
+    background-color: green;
+    font-size: 10px;
+    color: white;
+}
+
+.color-orange{
+    background-color: orange;
+    font-size: 10px;
+    color: white;
+}
+
+.space{
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.cerchio-yes{
+  font-size: 10px;
+  color: green;
+  border: 1px solid green;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+.tasto-2{
+    width: 100px;
+    padding: 3px;
+    border-radius: 30%;
+}
+
+.cerchio-no{
+  font-size: 10px;
+  color: red;
+  border: 1px solid red;
+  border-radius: 50%;
+  margin-right: 5px;
 }
