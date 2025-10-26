@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    overflow: hidden;
+}
+
+.logo{
+  float: left;
+  margin-right: 15px; 
+  margin-bottom: 15px; 
+  width: 60px; 
+  height: auto;
+}
+
+.title{
+    margin: 0;
+    padding: 10px;
+}
+
+.bg-color{
+    background-color: grey;
+}
+
+.bg-color-2{
+    background-color: white;
+}
+
+.container-bg{
+    width: 60%;
+    margin: 30px 100px 20px;
+    padding:20px 50px;
+}
+
+.tasto-1{
+    width: 100px;
+    padding: 10px;
+    border-radius: 20%;
+}
+
+.color-blue{
+    background-color: blue;
+    font-size: 10px;
+    color: white;
+}
+
+.color-grey{
+    border-color: grey;
+    font-size: 10px;
+    color: grey;
+}
+
+.vertical-space{
+    margin-top: 40px;
+}
