@@ -22,6 +22,10 @@
     padding: 10px;
 }
 
+.line{
+    background-color: grey;
+}
+
 .bg-color{
     background-color: grey;
 }
