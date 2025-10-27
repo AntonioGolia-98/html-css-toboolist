@@ -2,7 +2,9 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-size: large;
 }
+
 
 .container {
     width: 100%;
@@ -20,6 +22,7 @@
 .title{
     margin: 0;
     padding: 10px;
+    font-size: 40px;
 }
 
 .line{
@@ -51,31 +54,31 @@
 .color-blue{
     border-color: blue;
     background-color: blue;
-    font-size: 10px;
+    font-size: 15px;
     color: white;
 }
 
 .color-grey{
     border-color: grey;
-    font-size: 10px;
+    font-size: 15px;
     color: grey;
 }
 
 .color-purple{
     background-color:purple;
-    font-size: 10px;
+    font-size: 15px;
     color: white;
 }
 
 .color-green{
     background-color: green;
-    font-size: 10px;
+    font-size: 15px;
     color: white;
 }
 
 .color-orange{
     background-color: orange;
-    font-size: 10px;
+    font-size: 15px;
     color: white;
 }
 
@@ -85,7 +88,7 @@
 }
 
 .cerchio-yes{
-  font-size: 10px;
+  font-size: 15px;
   text-align: center;
   color: green;
   border: 1px solid green;
@@ -103,7 +106,7 @@
 }
 
 .cerchio-no{
-  font-size: 10px;
+  font-size: 15px;
   color: red;
   text-align: center;
   border: 1px solid red;
